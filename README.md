@@ -1,3 +1,12 @@
+To Test The Application, Login using the following Credentials :
+USER 1
+Username : test1
+Password : 123456
+
+USER 2
+Username : test2
+Password : 123456
+
 
 Some Features:
 
