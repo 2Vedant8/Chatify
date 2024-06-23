@@ -15,7 +15,7 @@ export const SocketContextProvider = ({ children }) => {
 
 	useEffect(() => {
 		if (authUser) {
-			const socket = io("https://mern-chat-app-master-eyz2.onrender.com", {
+			const socket = io("chatify.vedantuu.me", {
 				query: {
 					userId: authUser._id,
 				},
